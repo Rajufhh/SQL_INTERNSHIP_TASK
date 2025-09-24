@@ -38,7 +38,7 @@ This project is a **relational database schema** for a Library Management System
 Raju Bathini
 
 
------------------------------------------------------------TASK -1 ------------------------------------------------------
+
 
 
 
@@ -88,5 +88,3 @@ Check overdue books
 List most borrowed categories
 
 
-
------------------------------------------------------------TASK -2------------------------------------------------------
