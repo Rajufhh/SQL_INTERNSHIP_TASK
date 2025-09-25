@@ -87,4 +87,70 @@ Check overdue books
 
 List most borrowed categories
 
+-----------------------------------------------------------TASK - 3 ------------------------------------------------------
+
+Writing Basic SELECT Queries
+
+Overview
+This task focuses on practicing SQL commands for retrieving data from one or more tables. It demonstrates selecting all columns or specific ones, filtering rows with conditions, sorting results, and limiting the output.
+
+Features
+Select all columns or specific columns.
+
+Filter rows using WHERE, AND, OR.
+
+Perform pattern matching with LIKE.
+
+Use BETWEEN for range filtering.
+
+Sort results with ORDER BY (ascending/descending).
+
+Limit the number of rows returned.
+
+Retrieve unique values with DISTINCT.
+
+Apply aliasing (AS) for readability.
+
+Tables
+Students:
+
+RollNo (Primary Key)
+
+Name
+
+Age
+
+City
+
+Marks
+
+Special Features
+Supports selecting all (*) or specific columns.
+
+Demonstrates filtering with operators (=, IN, BETWEEN, LIKE).
+
+Shows both ascending and descending sorting.
+
+Illustrates LIMIT for restricting output.
+
+Explains aliasing (AS) and distinct results (DISTINCT).
+
+Covers interview-style examples with practical queries.
+
+How to Use
+Create a database in MySQL/SQLite.
+
+Run the CREATE TABLE script to create the Students table.
+
+Insert sample data into the table.
+
+Execute the provided SELECT queries one by one.
+
+Observe the results for filtering, sorting, and limiting.
+
+
+-----------------------------------------------------------------------------------------------
+
+
+
 
